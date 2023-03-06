@@ -1,0 +1,5 @@
+ Id |        Name |   Stock  |Price
+  1 |   Intel CPU |      20  | 250
+  2 |  nVidia GPU |      10  | 300
+  3 | Corsair RAM |      25  | 55
+  4 | Crucial SSD |      30  | 50

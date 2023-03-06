@@ -1,0 +1,8 @@
+path            | methods   | controller_function
+                | GET, POST | Controller\index      
+/cart           | GET       | Controller\cart 
+/stock          | GET       | Controller\stock      
+/payment        | GET       | Controller\payment       
+/login          | GET, POST | Controller\login 
+/logout         | GET       | Controller\logout 
+*any            | GET, POST | Controller\error_404  
